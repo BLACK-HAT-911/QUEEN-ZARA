@@ -1,4 +1,4 @@
-# <img src="https://i.imgur.com/JQZ1K0h.png" width="40"> **KERILL TECH**
+# <img src="[https://i.imgur.com](https://i.imgur.com/lFwbkEC.jpeg)" width="40"> **KERILL TECH**
 
 <p align="center">
   <img src="https://i.imgur.com/JQZ1K0h.png" width="160"><br><br>
