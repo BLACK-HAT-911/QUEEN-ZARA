@@ -1,7 +1,7 @@
-# <img src="[https://i.imgur.com](https://i.imgur.com/lFwbkEC.jpeg)" width="40"> **KERILL TECH**
+# <img src="https://i.imgur.com/lFwbkEC.jpeg" width="40"> **KERILL TECH**
 
 <p align="center">
-  <img src="(https://i.imgur.com/lFwbkEC.jpeg)" width="160"><br><br>
+  <img src="https://i.imgur.com/lFwbkEC.jpeg" width="160"><br><br>
   <b><span style="font-size:1.2em;">🔥 Premium APK Downloader 🔥</span></b>
 </p>
 
